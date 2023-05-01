@@ -1,6 +1,6 @@
 # i310FinalProject
 
-Using Python and various data science libraries.
+This project analyzes real-time traffic incident data from a CSV file and visualizes the results using Python and various data science libraries.
 
 Installation
 
