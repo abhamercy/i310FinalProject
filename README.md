@@ -1,4 +1,4 @@
-# i310FinalProject
+# Road Safety in Austin: A ML Approach
 
 Project Title: Evaluating Austin Road Safety Through Basic Techniques & Clustering Unsupervised ML Methods
 
